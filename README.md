@@ -1,1 +1,3 @@
 # Quiz_Game
+This is my second coding project. I'm building foundational Python skills for an AI Security Engineer role, which heavily favors Python proficiency. This quiz game demonstrates my understanding of user input handling, conditional logic, case-insensitive comparisons, f-strings, and score tracking.
+The program prompts the user to play. If they decline, the game exits. If they accept, they answer a series of technical questions. Each correct answer increments the score and prints feedback. At the end, the program displays the total correct answers and calculates the percentage score. This was created 12/31/25
